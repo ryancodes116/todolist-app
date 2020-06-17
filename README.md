@@ -4,4 +4,4 @@ Todo App that allows the user to add, complete, and delete any tasks they'd like
 
 Built using Vue.js
 
-![](src/mobile-preview.png)
+![](src/assets/mobile-preview.png)
